@@ -22,7 +22,7 @@ The challenges of sea surveillance in Singapore water are due to its size and ve
 A standard way of sending information about ship movement is through the Automatic Identification System (AIS). AIS dataset is used for analysis and machine learning training and testing throughout this project.
 
 ## AIS Data Collection
-The School of Computing at the National University of Singapore designed and implemented an end-to-end solution for AIS data collection as shown in below picture, and made them publicly available in [data.liancheng.science](www.data.liancheng.science). ![end to end system](img/ais-system.jpg)
+The School of Computing at the National University of Singapore designed and implemented an end-to-end solution for AIS data collection as shown in below picture, and made them publicly available in [data.liancheng.science]([www.data.liancheng.science](https://data.liancheng.science/ais_logs.html)). ![end to end system](img/ais-system.jpg)
 
 ## Exploratory Data Analysis
 ### Data Description
